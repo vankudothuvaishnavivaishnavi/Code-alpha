@@ -1,0 +1,10 @@
+Review,Polarity,Sentiment
+This product is amazing,0.6000000000000001,Positive
+I really love this product,0.5,Positive
+The quality is excellent,1.0,Positive
+Very bad product,-0.9099999999999998,Negative
+I hate this product,-0.8,Negative
+The product is terrible,-1.0,Negative
+It is okay,0.5,Positive
+The product is average,-0.15,Negative
+Nothing special about this product,0.35714285714285715,Positive
